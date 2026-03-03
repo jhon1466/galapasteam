@@ -1,0 +1,23 @@
+[
+  {
+    "value": "midnight",
+    "name": "Midnight Fusion",
+    "bgPrimary": "#050510",
+    "bgSecondary": "#0f0f2d",
+    "bgTertiary": "rgba(5, 5, 16, 0.95)",
+    "bgHover": "rgba(15, 15, 45, 0.95)",
+    "bgContainer": "rgba(5, 5, 16, 0.8)",
+    "bgContainerGradient": "rgba(5, 5, 16, 0.85), #050510",
+    "accent": "#00f2ff",
+    "accentLight": "#ff00ff",
+    "accentDark": "#0088cc",
+    "border": "rgba(0, 242, 255, 0.3)",
+    "borderHover": "rgba(0, 242, 255, 0.8)",
+    "text": "#e0e0ff",
+    "textSecondary": "#a0a0ff",
+    "gradient": "linear-gradient(135deg, #ff00ff 0%, #00f2ff 100%)",
+    "gradientLight": "linear-gradient(135deg, #00f2ff 0%, #ff00ff 100%)",
+    "shadow": "rgba(0, 242, 255, 0.4)",
+    "shadowHover": "rgba(255, 0, 255, 0.6)"
+  }
+]

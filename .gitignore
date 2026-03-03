@@ -1,0 +1,10 @@
+backend/appidlogs.txt
+backend/api.json
+backend/loadedappids.txt
+backend/loadedappids.txt
+backend/data/settings.json
+backend/locales/check_indent.py
+backend/locales/test.json
+backend/locales/check_missing.py
+scripts/package.py
+backend/temp_dl/all-appids.json
